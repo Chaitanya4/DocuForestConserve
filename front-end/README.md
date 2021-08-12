@@ -23,3 +23,7 @@ First start running the back-end, so that the back-end API respond could be fetc
 
 ### Acknowlegement: 
 I am grateful to DocuSign, Mapbox and React team for providing proper documentation and sample examples which helped me very much to develop the entire application.
+
+
+### License
+This project is licensed under the MIT License
