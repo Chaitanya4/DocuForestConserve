@@ -4,3 +4,6 @@ DocuForestConserve is a full-stack application for helping Forrest India NGO for
 It is built using React JS, React-bootstrap, DocuSign API, Node JS and Mapbox.
 
 For seeing further details about NGO visit:http://forrest-india.org/
+
+### License
+This project is licensed under the MIT License
