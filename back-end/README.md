@@ -16,3 +16,7 @@ npm start
 ### Acknowlegement: 
 I am grateful to DocuSign, Mapbox and React team for providing proper documentation and sample examples which helped me very much to develop the entire application.
 Code for sending envelope to mail is developed after taking reference from Docusign repository: https://github.com/docusign/code-examples-node
+
+
+### License
+This project is licensed under the MIT License
